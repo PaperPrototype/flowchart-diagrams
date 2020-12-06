@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T01:09:12.952Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 Edg/86.0.622.63" etag="JqGd69sgaBRHqWXy7LHg" version="13.10.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-06T01:27:41.230Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 Edg/86.0.622.63" etag="IxSuF6UWx_NwRBHhw6vk" version="13.10.9" type="github" pages="2">
   <diagram id="K7YyzgM8BqWO4I0Dd4Y1" name="Page-1">
     <mxGraphModel dx="928" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="600" math="0" shadow="0">
       <root>
@@ -130,24 +130,45 @@
     </mxGraphModel>
   </diagram>
   <diagram id="macGjN9iHivub9c09SrN" name="Page-2">
-    <mxGraphModel dx="1092" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="600" math="0" shadow="0">
+    <mxGraphModel dx="1326" dy="1006" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="600" math="0" shadow="0">
       <root>
         <mxCell id="M-IE22q1ZYHwsOlyX31J-0" />
         <mxCell id="M-IE22q1ZYHwsOlyX31J-1" parent="M-IE22q1ZYHwsOlyX31J-0" />
+        <mxCell id="M-IE22q1ZYHwsOlyX31J-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="M-IE22q1ZYHwsOlyX31J-1" source="M-IE22q1ZYHwsOlyX31J-2" target="M-IE22q1ZYHwsOlyX31J-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="M-IE22q1ZYHwsOlyX31J-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="M-IE22q1ZYHwsOlyX31J-1">
-          <mxGeometry x="160" y="100" width="80" height="40" as="geometry" />
+          <mxGeometry x="210" y="100" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="M-IE22q1ZYHwsOlyX31J-3" value="Entity&#39;s by Archetype" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=20;" vertex="1" parent="M-IE22q1ZYHwsOlyX31J-1">
-          <mxGeometry x="110" y="40" width="200" height="30" as="geometry" />
+          <mxGeometry x="160" y="40" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M-IE22q1ZYHwsOlyX31J-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="M-IE22q1ZYHwsOlyX31J-1">
-          <mxGeometry x="160" y="140" width="80" height="40" as="geometry" />
+          <mxGeometry x="210" y="140" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="M-IE22q1ZYHwsOlyX31J-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="M-IE22q1ZYHwsOlyX31J-1">
-          <mxGeometry x="160" y="180" width="80" height="40" as="geometry" />
+          <mxGeometry x="210" y="180" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="M-IE22q1ZYHwsOlyX31J-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="M-IE22q1ZYHwsOlyX31J-1">
-          <mxGeometry x="160" y="220" width="80" height="40" as="geometry" />
+          <mxGeometry x="210" y="220" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M-IE22q1ZYHwsOlyX31J-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="M-IE22q1ZYHwsOlyX31J-1">
+          <mxGeometry x="320" y="105" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M-IE22q1ZYHwsOlyX31J-15" value="Player archetype" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=20;" vertex="1" parent="M-IE22q1ZYHwsOlyX31J-1">
+          <mxGeometry x="30" y="105" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M-IE22q1ZYHwsOlyX31J-16" value="Enemy archetype" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=20;" vertex="1" parent="M-IE22q1ZYHwsOlyX31J-1">
+          <mxGeometry x="30" y="145" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M-IE22q1ZYHwsOlyX31J-20" value="Player entity" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=20;" vertex="1" parent="M-IE22q1ZYHwsOlyX31J-1">
+          <mxGeometry x="440" y="40" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M-IE22q1ZYHwsOlyX31J-21" value="" style="endArrow=classic;html=1;fontSize=20;" edge="1" parent="M-IE22q1ZYHwsOlyX31J-1" source="M-IE22q1ZYHwsOlyX31J-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="410" as="sourcePoint" />
+            <mxPoint x="390" y="110" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
