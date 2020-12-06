@@ -1,17 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T03:11:04.509Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 Edg/86.0.622.63" etag="s5xtCgjooODCuAS2CF8M" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T03:15:23.193Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 Edg/86.0.622.63" etag="cdwVo_yUioOrqN0fr8sZ" version="13.10.9" type="github">
   <diagram id="nzvETEdbK86aRVxHl5O3" name="Page-1">
     <mxGraphModel dx="928" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zIhTX7lfuCCxYS3zu1rD-1" value="Player Archetype contains&lt;br style=&quot;font-size: 14px;&quot;&gt;- position component&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;- mesh component&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;- meshRenderer component&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;- collider component&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;- physicsBody component&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="350" y="50" width="180" height="90" as="geometry" />
+          <mxGeometry x="600" y="35" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="zIhTX7lfuCCxYS3zu1rD-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="100" width="80" height="30" as="geometry" />
+          <mxGeometry x="100" y="110" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zIhTX7lfuCCxYS3zu1rD-3" value="Player Archetype" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="100" y="60" width="140" height="20" as="geometry" />
+        <mxCell id="zIhTX7lfuCCxYS3zu1rD-3" value="Player Archetype" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zIhTX7lfuCCxYS3zu1rD-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="110" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zIhTX7lfuCCxYS3zu1rD-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="110" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zIhTX7lfuCCxYS3zu1rD-6" value="" style="endArrow=classic;html=1;fontSize=14;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zIhTX7lfuCCxYS3zu1rD-3" target="zIhTX7lfuCCxYS3zu1rD-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="260" as="sourcePoint" />
+            <mxPoint x="110" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIhTX7lfuCCxYS3zu1rD-7" value="Archetypes List" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="10" y="20" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zIhTX7lfuCCxYS3zu1rD-8" value="Enemy Archetype" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="170" y="70" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zIhTX7lfuCCxYS3zu1rD-9" value="" style="endArrow=classic;html=1;fontSize=14;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zIhTX7lfuCCxYS3zu1rD-8" target="zIhTX7lfuCCxYS3zu1rD-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="115" y="110" as="sourcePoint" />
+            <mxPoint x="129" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIhTX7lfuCCxYS3zu1rD-10" value="Trees Archetype" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="320" y="70" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zIhTX7lfuCCxYS3zu1rD-11" value="" style="endArrow=classic;html=1;fontSize=14;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zIhTX7lfuCCxYS3zu1rD-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="245" y="100" as="sourcePoint" />
+            <mxPoint x="310" y="110" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
