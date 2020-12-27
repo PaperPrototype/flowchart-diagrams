@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-27T23:11:02.910Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="taiTx9piWI120VYM6jVi" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-27T23:11:52.079Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="Nayv0H2Dr_-tKU7Rg4Xg" version="14.1.2" type="github">
   <diagram id="1eaEp4smZeBg_3T7eLWt" name="Page-1">
     <mxGraphModel dx="1020" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="600" math="0" shadow="0">
       <root>
@@ -183,6 +183,15 @@
         </mxCell>
         <mxCell id="Q1B7LOAP0Nf7Fxr3te_h-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#363636;" vertex="1" parent="1">
           <mxGeometry x="640" y="219.75" width="30" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1B7LOAP0Nf7Fxr3te_h-44" value="Half full array chunk" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="730" y="345" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1B7LOAP0Nf7Fxr3te_h-46" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q1B7LOAP0Nf7Fxr3te_h-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="360" as="sourcePoint" />
+            <mxPoint x="680" y="360" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
