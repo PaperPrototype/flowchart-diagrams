@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-27T22:28:40.280Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="sLTGkYBApEf74N0U4OyZ" version="13.10.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-27T22:29:07.218Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="TLgoP4KLqmsVUJYlWqmX" version="13.10.9" type="github" pages="2">
   <diagram id="MGtYckDk1e_mz4lWe_g5" name="Page-1">
     <mxGraphModel dx="1020" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="600" math="0" shadow="0">
       <root>
@@ -202,8 +202,8 @@
         <mxCell id="2JHQKx7xsulP505j_aK_-104" value="6" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="420" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2JHQKx7xsulP505j_aK_-105" value="Array of components" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="335" y="220" width="175" height="20" as="geometry" />
+        <mxCell id="2JHQKx7xsulP505j_aK_-105" value="Array of Entity components" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="335" y="220" width="205" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2JHQKx7xsulP505j_aK_-106" value="Simple ECS Data Layout" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="190" y="110" width="400" height="50" as="geometry" />
